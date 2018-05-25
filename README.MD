@@ -1,3 +1,5 @@
+# Learn More / ╧ьсзё╗English/╪РлЕжпндё╘
+
 > Introduction
 
 Mockformula, the original project name is Muncslemon. At the beginning of the 2018, the West Coast simulation of the United Nations Organizing Committee under the request began to develop an open source, free, powerful, supporting the split-screen of the free Conference simulation of the academic software. The software will evolve in a way that is more free (that is, not overly meeting rules but adaptable to different meeting rules).
@@ -20,8 +22,8 @@ To download and use, please go to https://gitee.com/VisualDust/MockFormula/repos
 
 >Requirements for computers using Mockformula
 
-CPU  recommended Corei3 Four generations or better performance                   Minimum no lower bound.,As long as not Intel8008.
-RAM recommended 4GB or higher.
+CPU  recommended Corei3 Four generations or better performance,                  Minimum no lower bound.,As long as not Intel8008. .
+RAM recommended 4GB or higher.,
          Minimum, as long as your computer can boot.
 
 
@@ -47,7 +49,7 @@ MockFormulaё╗ртоб╪РЁфMFё╘лА╧╘фДкШхМ╪Ч╡╩дэлА╧╘╣д╥жфа╧╕дэё╛дЦ©ирттз╩АрИ╢Сфад╩иоотй
 
 > й╧сцMockFormula╤т╣Гдт╣др╙гС
 
-CPU   мф╪ЖCorei3кд╢З╩Рптдэ╦Э╨ц
-          вН╣мц╩спобоч║ёж╩р╙╡╩йгIntel8008	
-RAM  мф╪Ж4GB╩Р╦Э╦ъ
-          вН╣мж╩р╙дЦ╣д╣Гдтдэ©╙╩З╬мпп
+CPU   мф╪ЖCorei3кд╢З╩Рптдэ╦Э╨цё╛
+          вН╣мц╩спобоч║ёж╩р╙╡╩йгIntel8008	║ё
+RAM  мф╪Ж4GB╩Р╦Э╦ъё╛
+          вН╣мж╩р╙дЦ╣д╣Гдтдэ©╙╩З╬мпп║ё
