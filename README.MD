@@ -1,4 +1,4 @@
-* 如果你想下载... / If you want to download ...
+* 如果你想下载..看下面 / If you want to download ..See here
 # Learn More / 关于（English/简体中文）
 
 > Introduction
@@ -28,6 +28,11 @@ RAM recommended 4GB or higher.,
          Minimum, as long as your computer can boot.
 
 
+> Development and contribution
+
+The owner of the project, @visualdust, and all contributors to the project, @visualdust and @papercube, are now in high school and are good kids who love to study .
+
+
 > 项目介绍
 
 MockFormula，原项目名称为MUNCSLemon。是在2018年初西海岸模拟联合国组委会的要求下开始开发的一个开源、免费、功能强大、支持分屏的自由式会议模拟学术软件。该软件将会向更加自由（即没有用过多会议规则约束但可以适应不同会议规则）的方向发展。
@@ -54,3 +59,8 @@ CPU   推荐Corei3四代或性能更好，
           最低没有下限。只要不是Intel8008	。
 RAM  推荐4GB或更高，
           最低只要你的电脑能开机就行。
+
+
+> 开发和贡献
+
+这个项目的所有者@VisualDust以及这个项目的所有贡献者@VisualDust和@PaperCube目前都在读高中，都是爱学习的好孩子。
