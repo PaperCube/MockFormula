@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bccb32b-f984-46fb-ba25-9c62e4ec0464" name="Default" comment="" />
+    <list default="true" id="4bccb32b-f984-46fb-ba25-9c62e4ec0464" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MockFormula.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MockFormula.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,24 +29,10 @@
       <file leaf-file-name="ConsoleWindow.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/ConsoleWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+            <state relative-caret-position="150">
+              <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4837#5271#0" expanded="true" />
-                <element signature="e#5270#5271#0" expanded="true" />
-                <element signature="e#5423#5857#0" expanded="true" />
-                <element signature="e#5856#5857#0" expanded="true" />
-                <element signature="e#6408#6767#0" expanded="true" />
-                <element signature="e#6766#6767#0" expanded="true" />
-                <element signature="e#9856#10279#0" expanded="true" />
-                <element signature="e#10278#10279#0" expanded="true" />
-                <element signature="e#12172#12526#0" expanded="true" />
-                <element signature="e#12525#12526#0" expanded="true" />
-                <element signature="e#16298#16646#0" expanded="true" />
-                <element signature="e#16645#16646#0" expanded="true" />
-                <element signature="e#18218#18567#0" expanded="true" />
-                <element signature="e#18566#18567#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,7 +41,7 @@
       <file leaf-file-name="VoiceConfigWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/VoiceConfigWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,7 +53,7 @@
       <file leaf-file-name="ScreenCover.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Display/ScreenCover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,7 +83,7 @@
       <file leaf-file-name="DisplayConfigWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/DisplayConfigWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="60">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +104,7 @@
       <file leaf-file-name="Clockcontrol.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/Methord/Clockcontrol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="420">
               <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
             </state>
           </provider>
@@ -136,7 +125,7 @@
       <file leaf-file-name="CheckItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/CheckItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="60">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -204,7 +193,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -362,15 +351,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Thu&#9;PSI&#9;JAVA://MUNCSLemon.lib.ConsoleWindow.ThumbPanel&#10;capture&#9;PSI&#9;JAVA://MUNCSLemon.lib.ScreenForm.CaptureService&#10;thumb&#9;PSI&#9;JAVA://MUNCSLemon.lib.ConsoleWindow.ThumbPanel&#10;listprint&#9;PSI&#9;JAVA://MUNCSLemon.lib.ScreenForm#listprintscrollpane&#10;font&#9;ACTION&#9;null&#10;updateUI&#9;PSI&#9;JAVA://javax.swing.JComponent#updateUI" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/Database/weblaf_complete_1.28.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FormulaLayout" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15917969" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -546,6 +535,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3198198" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -572,38 +562,37 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.6381381" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3198198" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32882273" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21380244" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Tool Output" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23264782" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21380244" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="9" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.64116985" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32969153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40324762" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32882273" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32882273" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32746956" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32969153" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329429" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23264782" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -792,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/CheckItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="60">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -802,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/VoiceConfigWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -826,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/Methord/Clockcontrol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="420">
           <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
         </state>
       </provider>
@@ -840,7 +829,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Display/ScreenCover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -850,7 +839,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/DisplayConfigWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="60">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -860,24 +849,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio.visualdust.product.muncs/MockFormula/lib/UI/Console/ConsoleWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        <state relative-caret-position="150">
+          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4837#5271#0" expanded="true" />
-            <element signature="e#5270#5271#0" expanded="true" />
-            <element signature="e#5423#5857#0" expanded="true" />
-            <element signature="e#5856#5857#0" expanded="true" />
-            <element signature="e#6408#6767#0" expanded="true" />
-            <element signature="e#6766#6767#0" expanded="true" />
-            <element signature="e#9856#10279#0" expanded="true" />
-            <element signature="e#10278#10279#0" expanded="true" />
-            <element signature="e#12172#12526#0" expanded="true" />
-            <element signature="e#12525#12526#0" expanded="true" />
-            <element signature="e#16298#16646#0" expanded="true" />
-            <element signature="e#16645#16646#0" expanded="true" />
-            <element signature="e#18218#18567#0" expanded="true" />
-            <element signature="e#18566#18567#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -888,12 +863,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>MockFormula</last-edited>
+          <last-edited>unnamed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
