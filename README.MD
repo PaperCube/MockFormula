@@ -1,3 +1,4 @@
+* 如果你想下载... / If you want to download ...
 # Learn More / 关于（English/简体中文）
 
 > Introduction
