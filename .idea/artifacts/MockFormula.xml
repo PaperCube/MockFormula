@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MockFormula">
+    <output-path>$PROJECT_DIR$/out/artifacts/MockFormula</output-path>
+    <root id="archive" name="MockFormula.jar">
+      <element id="module-output" name="MUNCS" />
+    </root>
+  </artifact>
+</component>
